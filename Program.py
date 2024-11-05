@@ -18,4 +18,3 @@ class Mangekant:
 mangekant = Mangekant(4)     # Oppretter en instans (et objekt) av klassen Mangekant med 5 sider
 mangekant.sidelengde()       # Kaller metoden `sidelengde` for å samle inn lengden på hver side fra brukeren
 mangekant.visInfo()          # Kaller metoden `visInfo` for å vise antall sider, sidelengdene og omkretsen
-
